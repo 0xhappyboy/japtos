@@ -1,2 +1,2 @@
 ## <center> JAptos </center>  
-this is aptos java sdk
+aptos (@aptos-labs) java sdk
