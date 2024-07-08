@@ -1,4 +1,4 @@
-package org.japtos.utils;
+package org.japtos.config;
 
 /**
  * @Author happyboy
